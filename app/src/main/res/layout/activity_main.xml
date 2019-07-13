@@ -64,7 +64,38 @@ android:layout_height="match_parent">
 
             </LinearLayout>
 
+            <LinearLayout
+                style="@style/langRow">
 
+                <TextView
+                    style="@style/langCol_01"
+                    android:text="@string/langName_00_eng" />
+
+                <TextView
+                    style="@style/langCol_02"
+                    android:text="@string/langName_00_local"/>
+
+                <TextView
+                    style="@style/langCol_03"
+                    android:text="@string/langName_00_local"/>
+
+                <TextView
+                    style="@style/langCol_04"
+                    android:text="@string/langName_00_local"/>
+
+                <TextView
+                    style="@style/langCol_05"
+                    android:text="@string/langName_00_local"/>
+
+                <TextView
+                    style="@style/langCol_06"
+                    android:text="@string/langName_00_local"/>
+
+                <TextView
+                    style="@style/langCol_07"
+                    android:text="@string/langName_00_local"/>
+
+            </LinearLayout>
 
             <LinearLayout
                 style="@style/langRow">

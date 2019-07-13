@@ -2,6 +2,9 @@
 
     <string name="app_name">Indian Font</string>
 
+    <string name="langName_00_eng">English</string>
+    <string name="langName_00_local">English</string>
+
     <string name="langName_01_eng">Hindi</string>
     <string name="langName_01_local">हिंदी</string>
 
