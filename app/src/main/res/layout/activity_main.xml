@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="16dp"
+            tools:context="com.ux.somnath.indianfont.MainActivity">
+
+
+
+            <LinearLayout
+                style="@style/titleRow"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    style="@style/title"
+                    android:textSize="14sp"
+                    android:text="14sp" />
+
+                <TextView
+                    style="@style/title"
+                    android:textSize="11sp"
+                    android:text="11sp" />
+
+                <TextView
+                    style="@style/title"
+                    android:textSize="12sp"
+                    android:text="12sp" />
+
+
+                <TextView
+                    style="@style/title"
+                    android:textSize="13sp"
+                    android:text="13sp" />
+
+                <TextView
+                    style="@style/title"
+                    android:textSize="14sp"
+                    android:text="14sp" />
+
+                <TextView
+                    style="@style/title"
+                    android:textSize="15sp"
+                    android:text="15sp" />
+
+                <TextView
+                    style="@style/title"
+                    android:textSize="16sp"
+                    android:text="16sp" />
+
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                style="@style/langRow">
+
+                <TextView
+                    style="@style/langCol_01"
+                    android:text="@string/langName_01_eng" />
+
+                <TextView
+                    style="@style/langCol_02"
+                    android:text="@string/langName_01_local"/>
+
+                <TextView
+                    style="@style/langCol_03"
+                    android:text="@string/langName_01_local"/>
+
+                <TextView
+                    style="@style/langCol_04"
+                    android:text="@string/langName_01_local"/>
+
+                <TextView
+                    style="@style/langCol_05"
+                    android:text="@string/langName_01_local"/>
+
+                <TextView
+                    style="@style/langCol_06"
+                    android:text="@string/langName_01_local"/>
+
+                <TextView
+                    style="@style/langCol_07"
+                    android:text="@string/langName_01_local"/>
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                style="@style/langRow">
+
+                <TextView
+                    style="@style/langCol_01"
+                    android:text="@string/langName_02_eng" />
+
+                <TextView
+                    style="@style/langCol_02"
+                    android:text="@string/langName_02_local"/>
+
+                <TextView
+                    style="@style/langCol_03"
+                    android:text="@string/langName_02_local"/>
+
+                <TextView
+                    style="@style/langCol_04"
+                    android:text="@string/langName_02_local"/>
+
+                <TextView
+                    style="@style/langCol_05"
+                    android:text="@string/langName_02_local"/>
+
+                <TextView
+                    style="@style/langCol_06"
+                    android:text="@string/langName_02_local"/>
+
+                <TextView
+                    style="@style/langCol_07"
+                    android:text="@string/langName_02_local"/>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                style="@style/langRow">
+
+                <TextView
+                    style="@style/langCol_01"
+                    android:text="@string/langName_03_eng" />
+
+                <TextView
+                    style="@style/langCol_02"
+                    android:text="@string/langName_03_local"/>
+
+                <TextView
+                    style="@style/langCol_03"
+                    android:text="@string/langName_03_local"/>
+
+                <TextView
+                    style="@style/langCol_04"
+                    android:text="@string/langName_03_local"/>
+
+                <TextView
+                    style="@style/langCol_05"
+                    android:text="@string/langName_03_local"/>
+
+                <TextView
+                    style="@style/langCol_06"
+                    android:text="@string/langName_03_local"/>
+
+                <TextView
+                    style="@style/langCol_07"
+                    android:text="@string/langName_03_local"/>
+
+            </LinearLayout>
+
+            <LinearLayout style="@style/langRow">
+
+                <TextView
+                    style="@style/langCol_01"
+                    android:text="@string/langName_04_eng" />
+
+                <TextView
+                    style="@style/langCol_02"
+                    android:text="@string/langName_04_local" />
+
+                <TextView
+                    style="@style/langCol_03"
+                    android:text="@string/langName_04_local" />
+
+                <TextView
+                    style="@style/langCol_04"
+                    android:text="@string/langName_04_local" />
+
+                <TextView
+                    style="@style/langCol_05"
+                    android:text="@string/langName_04_local" />
+
+                <TextView
+                    style="@style/langCol_06"
+                    android:text="@string/langName_04_local" />
+
+                <TextView
+                    style="@style/langCol_07"
+                    android:text="@string/langName_04_local" />
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                style="@style/langRow">
+
+                <TextView
+                    style="@style/langCol_01"
+                    android:text="@string/langName_05_eng" />
+
+                <TextView
+                    style="@style/langCol_02"
+                    android:text="@string/langName_05_local" />
+
+                <TextView
+                    style="@style/langCol_03"
+                    android:text="@string/langName_05_local"/>
+
+                <TextView
+                    style="@style/langCol_04"
+                    android:text="@string/langName_05_local"/>
+
+                <TextView
+                    style="@style/langCol_05"
+                    android:text="@string/langName_05_local"/>
+
+                <TextView
+                    style="@style/langCol_06"
+                    android:text="@string/langName_05_local"/>
+
+                <TextView
+                    style="@style/langCol_07"
+                    android:text="@string/langName_05_local"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/langRow">
+
+                <TextView
+                    style="@style/langCol_01"
+                    android:text="@string/langName_06_eng" />
+
+                <TextView
+                    style="@style/langCol_02"
+                    android:text="@string/langName_06_local"/>
+
+                <TextView
+                    style="@style/langCol_03"
+                    android:text="@string/langName_06_local"/>
+
+                <TextView
+                    style="@style/langCol_04"
+                    android:text="@string/langName_06_local"/>
+
+                <TextView
+                    style="@style/langCol_05"
+                    android:text="@string/langName_06_local"/>
+
+                <TextView
+                    style="@style/langCol_06"
+                    android:text="@string/langName_06_local"/>
+
+                <TextView
+                    style="@style/langCol_07"
+                    android:text="@string/langName_06_local"/>
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                style="@style/langRow">
+
+                <TextView
+                    style="@style/langCol_01"
+                    android:text="@string/langName_07_eng" />
+
+                <TextView
+                    style="@style/langCol_02"
+                    android:text="@string/langName_07_local"/>
+
+                <TextView
+                    style="@style/langCol_03"
+                    android:text="@string/langName_07_local"/>
+
+                <TextView
+                    style="@style/langCol_04"
+                    android:text="@string/langName_07_local"/>
+
+                <TextView
+                    style="@style/langCol_05"
+                    android:text="@string/langName_07_local"/>
+
+                <TextView
+                    style="@style/langCol_06"
+                    android:text="@string/langName_07_local"/>
+
+                <TextView
+                    style="@style/langCol_07"
+                    android:text="@string/langName_07_local"/>
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                style="@style/langRow">
+
+                <TextView
+                    style="@style/langCol_01"
+                    android:text="@string/langName_08_eng" />
+
+                <TextView
+                    style="@style/langCol_02"
+                    android:text="@string/langName_08_local"/>
+
+                <TextView
+                    style="@style/langCol_03"
+                    android:text="@string/langName_08_local"/>
+
+                <TextView
+                    style="@style/langCol_04"
+                    android:text="@string/langName_08_local"/>
+
+                <TextView
+                    style="@style/langCol_05"
+                    android:text="@string/langName_08_local"/>
+
+                <TextView
+                    style="@style/langCol_06"
+                    android:text="@string/langName_08_local"/>
+
+                <TextView
+                    style="@style/langCol_07"
+                    android:text="@string/langName_08_local"/>
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                style="@style/langRow">
+
+                <TextView
+                    style="@style/langCol_01"
+                    android:text="@string/langName_09_eng" />
+
+                <TextView
+                    style="@style/langCol_02"
+                    android:text="@string/langName_09_local"/>
+
+                <TextView
+                    style="@style/langCol_03"
+                    android:text="@string/langName_09_local"/>
+
+                <TextView
+                    style="@style/langCol_04"
+                    android:text="@string/langName_09_local"/>
+
+                <TextView
+                    style="@style/langCol_05"
+                    android:text="@string/langName_09_local"/>
+
+                <TextView
+                    style="@style/langCol_06"
+                    android:text="@string/langName_09_local"/>
+
+                <TextView
+                    style="@style/langCol_07"
+                    android:text="@string/langName_09_local"/>
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                style="@style/langRow">
+
+                <TextView
+                    style="@style/langCol_01"
+                    android:text="@string/langName_10_eng" />
+
+                <TextView
+                    style="@style/langCol_02"
+                    android:text="@string/langName_10_local"/>
+
+                <TextView
+                    style="@style/langCol_03"
+                    android:text="@string/langName_10_local"/>
+
+                <TextView
+                    style="@style/langCol_04"
+                    android:text="@string/langName_10_local"/>
+
+                <TextView
+                    style="@style/langCol_05"
+                    android:text="@string/langName_10_local"/>
+
+                <TextView
+                    style="@style/langCol_06"
+                    android:text="@string/langName_10_local"/>
+
+                <TextView
+                    style="@style/langCol_07"
+                    android:text="@string/langName_10_local"/>
+
+            </LinearLayout>
+
+
+
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+</ScrollView>

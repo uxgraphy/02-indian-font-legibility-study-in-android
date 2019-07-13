@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name">Indian Font</string>
+
+    <string name="langName_01_eng">Hindi</string>
+    <string name="langName_01_local">हिंदी</string>
+
+    <string name="langName_02_eng">Marathi</string>
+    <string name="langName_02_local">मराठी</string>
+
+    <string name="langName_03_eng">Bangla</string>
+    <string name="langName_03_local">বাংলা</string>
+
+    <string name="langName_04_eng">Telagu</string>
+    <string name="langName_04_local">తెలుగు</string>
+
+    <string name="langName_05_eng">Tamil</string>
+    <string name="langName_05_local">தமிழ்</string>
+
+    <string name="langName_06_eng">Gujarati</string>
+    <string name="langName_06_local">ગુજરાતી</string>
+
+    <string name="langName_07_eng">Kannada</string>
+    <string name="langName_07_local">ಕನ್ನಡ</string>
+
+    <string name="langName_08_eng">Malyalam</string>
+    <string name="langName_08_local">മല്യാലം</string>
+
+    <string name="langName_09_eng">Punjabi</string>
+    <string name="langName_09_local">ਪੰਜਾਬੀ</string>
+
+    <string name="langName_10_eng">Odia</string>
+    <string name="langName_10_local">ଓଡ଼ିଆ</string>
+
+</resources>
