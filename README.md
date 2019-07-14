@@ -8,3 +8,8 @@ General practice across apps has been to keep 14px as regular font size. This wo
 
 ## Goal
 Identify an optimal regular font size for english and non-english language.
+
+## Preview
+Snapshot taken from an Android device.
+
+<img src="https://github.com/uxgraphy/02-indian-font-legibility-study-in-android/blob/master/01-screenshot-display-all-fonts.jpg" alt="alt text" width="640" height="whatever">
